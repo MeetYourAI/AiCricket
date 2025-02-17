@@ -10,35 +10,35 @@
 
 4. [Key Features](#key-features)
 
-   1. [1. User Registration and Profiles](#1-user-registration-and-profiles)
+   [1. User Registration and Profiles](#1-user-registration-and-profiles)
 
-   2. [2. AI-Personalized Cricket Drills](#2-ai-personalized-cricket-drills)
+   [2. AI-Personalized Cricket Drills](#2-ai-personalized-cricket-drills)
 
-   3. [3. Skill Development Guidance](#3-skill-development-guidance)
+   [3. Skill Development Guidance](#3-skill-development-guidance)
 
-   4. [4. Virtual Coaching](#4-virtual-coaching)
+   [4. Virtual Coaching](#4-virtual-coaching)
 
-   5. [5. Performance Tracking](#5-performance-tracking)
+   [5. Performance Tracking](#5-performance-tracking)
 
-   6. [6. Cricket Challenges](#6-cricket-challenges)
+   [6. Cricket Challenges](#6-cricket-challenges)
 
-   7. [7. Rest & Recovery](#7-rest--recovery)
+   [7. Rest & Recovery](#7-rest--recovery)
 
-   8. [8. Community and Social Features](#8-community-and-social-features)
+   [8. Community and Social Features](#8-community-and-social-features)
 
-   9. [9. Virtual Matches & Simulation Drills](#9-virtual-matches--simulation-drills)
+   [9. Virtual Matches & Simulation Drills](#9-virtual-matches--simulation-drills)
 
-   10. [10. Personalized Training Recommendations](#10-personalized-training-recommendations)
+   [10. Personalized Training Recommendations](#10-personalized-training-recommendations)
 
-   11. [11. Monetization](#11-monetization)
+   [11. Monetization](#11-monetization)
 
-   12. [12. Data Privacy & Security](#12-data-privacy--security)
+   [12. Data Privacy & Security](#12-data-privacy--security)
 
-   13. [13. Platform Compatibility](#13-platform-compatibility)
+   [13. Platform Compatibility](#13-platform-compatibility)
 
-   14. [14. User Support](#14-user-support)
+   [14. User Support](#14-user-support)
 
-   15. [15. Future Enhancements](#15-future-enhancements)
+   [15. Future Enhancements](#15-future-enhancements)
 
 5. [System Requirements](#system-requirements)
 
